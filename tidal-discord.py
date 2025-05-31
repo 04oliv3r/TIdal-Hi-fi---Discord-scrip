@@ -2,7 +2,7 @@ from pypresence import Presence
 import subprocess
 import time
 
-client_id = "1377522592814203029"
+client_id = "" # ID discord
 RPC = Presence(client_id)
 RPC.connect()
 
