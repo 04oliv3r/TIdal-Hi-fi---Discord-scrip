@@ -31,7 +31,7 @@ while True:
             RPC.update(
                 details=f"🎧 {title}",
                 state=f"de {artist}",
-                large_image="tidal",  # Debes haber subido una imagen con nombre 'tidal' en Discord Dev Portal
+                large_image="tidal",  
                 large_text="Escuchando en Tidal"
             )
     else:
